@@ -28,7 +28,7 @@ And at the end of the day, you can download the edited version of the image
 ### Developing The Project
 Feel free to [Fork](https://github.com/BioBut/-Image_Editor/fork) and contribute to this project.
 ### Developing The Main  Project
-[Link](https://github.com/BioBut/-Image_Editor) and contribute to this project.
+[Link](https://github.com/ShayanTheNerd/Image_Editor) and contribute to this project.
 
 Go to the integrated terminal and type:
 
